@@ -78,6 +78,7 @@
     "*.rex": "rexx",
     "*.rexx": "rexx",
     "stdio.h": "c",
-    "time.h": "c"
+    "time.h": "c",
+    "type_traits": "c"
   }
 }
